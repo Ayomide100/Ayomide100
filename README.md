@@ -30,7 +30,11 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 
-
+**Tech Stacks**
+- React/NextJs & Redux (Frontend)
+- ExpressJS, NestJS (Backend)
+- Mongodb, Postgresql, Mysql (Database)
+- Heroku, AWS, Digital Ocean etc. (Cloud service)
 
 **Community**
 - Commit your code
