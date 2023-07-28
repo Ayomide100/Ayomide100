@@ -16,7 +16,7 @@
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -29,18 +29,14 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
 
 **Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+- Commit your code
+- Inventors
+- MLOPS
+- Empower Her Community
 
 **Languages and Tools:**
 
