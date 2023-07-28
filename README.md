@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/fasakin-oluwaseyi-527374188/">
 <img align="left" alt="Fasakin Oluwaseyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/fasakin-oluwaseyi-527374188/">
+<a href="mailto:fasakinoluwaseyi4@gmail.com">
 <img align="left" alt="Fasakin Oluwaseyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/sakigo_09/">
