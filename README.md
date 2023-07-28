@@ -2,7 +2,7 @@
 
 <br/>
 
-###Socials
+### Socials
 <hr>
 <a href="https://twitter.com/FasakinOluwas13">
 <img align="left" alt="Fasakin Oluwaseyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -53,4 +53,8 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 - Python
 - Git
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomide100&show_icons=true&theme=dark)
+### Github Stats
+<hr>
+(https://github-readme-stats.vercel.app/api?username=ayomide100&show_icons=true&theme=dark)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ayomide100)](https://github.com/ayomide100/github-readme-stats)
