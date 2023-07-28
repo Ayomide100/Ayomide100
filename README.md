@@ -30,8 +30,6 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 - 🔭 I'm a passionate full-stack engineer with expertise in React, Node.js, MongoDB, TypeScript, MySQL, and JavaScript.
 - 🌱 I create robust and scalable solutions to tackle complex business problems.
-- 🌱 I’m currently learning DevOps.
-- 
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
