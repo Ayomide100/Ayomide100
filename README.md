@@ -2,7 +2,8 @@
 
 <br/>
 
-
+###Socials
+<hr>
 <a href="https://twitter.com/FasakinOluwas13">
 <img align="left" alt="Fasakin Oluwaseyi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -27,7 +28,10 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Talking about Personal Stuffs:**
 
+- 🔭 I'm a passionate full-stack engineer with expertise in React, Node.js, MongoDB, TypeScript, MySQL, and JavaScript.
+- 🌱 I create robust and scalable solutions to tackle complex business problems.
 - 🌱 I’m currently learning DevOps.
+- 
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
@@ -50,9 +54,4 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 - Git
 
   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomide100)](https://github.com/anuraghazra/github-readme-stats)
