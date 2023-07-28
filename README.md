@@ -27,7 +27,6 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
 - 🌱 I’m currently learning DevOps.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
