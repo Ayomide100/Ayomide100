@@ -51,10 +51,6 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 - Python
 - Git
 
-### Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomide100&show_icons=true&theme=tokyonight)
-
 <br/>
 
 
