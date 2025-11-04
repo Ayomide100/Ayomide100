@@ -28,7 +28,7 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I'm a passionate full-stack engineer with expertise in React, Node.js, MongoDB, TypeScript, MySQL, and JavaScript.
+- 🔭 I'm a passionate full-stack engineer with expertise in React, Node.js, C#, ASP.NET, MongoDB, TypeScript, MySQL, and JavaScript.
 - 🌱 I create robust and scalable solutions to tackle complex business problems.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
@@ -36,7 +36,7 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Tech Stacks**
 - React/NextJs & Redux (Frontend)
-- ExpressJS, NestJS (Backend)
+- ExpressJS, NestJS, C#, ASP.NET (Backend)
 - Mongodb, Postgresql, Mysql (Database)
 - Heroku, AWS, Digital Ocean etc. (Cloud service)
 
@@ -48,6 +48,7 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Programming Languages & Tools**
 - Javascript
+- C#
 - Python
 - Git
 
