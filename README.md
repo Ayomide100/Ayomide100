@@ -56,4 +56,4 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomide100&hide_progress=true)
+
