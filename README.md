@@ -13,7 +13,7 @@
 <a href="mailto:fasakinoluwaseyi4@gmail.com">
 <img align="left" alt="Fasakin Oluwaseyi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
+<a href="#">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -36,7 +36,7 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Tech Stacks**
 - React/NextJs & Redux (Frontend)
-- ExpressJS, NestJS, C#, ASP.NET (Backend)
+- ExpressJS, NestJS, C#, ASP.NET (Backend), GOLANG
 - Mongodb, Postgresql, Mysql (Database)
 - Heroku, AWS, Digital Ocean etc. (Cloud service)
 
@@ -48,6 +48,7 @@ Hi,I'm Fasakin Oluwaseyi Ayomide🙌, a Software Engineer and a machine learning
 
 **Programming Languages & Tools**
 - Javascript
+- GOLANG
 - C#
 - Python
 - Git
